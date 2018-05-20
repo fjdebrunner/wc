@@ -1,0 +1,43 @@
+
+	ctrs  = [
+		{
+			"name": "Christie's Place",
+			"description": "Provides HIV/AIDS education, support, and advocacy, with mission aimed at serving women, children, and families.",
+			"phonenumber": "(619) 702-4186",
+			"address": "2440 Third Ave, San Diego, CA 92101",
+			"img": "christy.jpg",
+			"tags": [-1, -1, 0, 0, 0],
+			"id": "center1"
+		},
+
+		{
+			"name": "Lead the Way",
+			"description": "Provides testing using The Early Test, a combination of tests used to diagnose HIV and determine the stage of infection.",
+			"phonenumber": "(619) 543-9340",
+			"address": "3830 Park Blvd, San Diego, CA 92103",
+			"img": "christy.jpg",
+			"tags": [0, 0, -1, -1, -1],
+			"id": "center2"
+		},
+
+		{
+			"name": "Progressive Health Serivces",
+			"description": "HiV and STD testing with same day results.",
+			"phonenumber": "(619) 260-0810",
+			"address": "4732 Point Loma Ave, San Diego, CA 92107",
+			"img": "christy.jpg",
+			"tags": [0, 0, -1, -1, -1],
+			"id": "center3"
+		},
+
+		{
+			"name": "San Diego LGBT Community Center",
+			"description": "Provides HIV and STI testing, as well as various discussion and support groups.",
+			"phonenumber": "(619) 692-2077",
+			"address": "3410, 3909 Centre St, San Diego, CA 92103",
+			"img": "christy.jpg",
+			"tags": [0, 0, 0, -1, -1],
+			"id": "center4"
+		}
+
+	];
