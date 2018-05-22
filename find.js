@@ -7,13 +7,14 @@ function myFun(){
       if(document.getElementById("choice").checked == true){
          
          ans = document.getElementById("choice").value;
+         cont(ans);
       }
 
-      else{
+      else if(document.getElementById("choice1").checked == true){
 
          ans = document.getElementById("choice1").value;
+         cont(ans);
       }
-      cont(ans);
 
  }   
  
