@@ -1,3 +1,5 @@
+//tags array is: [gen, testing, resource, women, children]
+
 var centers = ctrs;
 
 function myFun(){
